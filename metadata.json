@@ -1,0 +1,8 @@
+{
+  "name": "serCell - Servicio Técnico Premium",
+  "description": "Sitio web ultra fluido y moderno para servicio técnico de reparación de celulares con chatbot IA interactivo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
